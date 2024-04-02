@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Breno-C-G
  <div>
    <a href="https://github.com/Breno-C-G">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-C-G&show_icons=true&theme=draculat&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-C-G&show_icons=true&theme=tokyonightt&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-C-G&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
